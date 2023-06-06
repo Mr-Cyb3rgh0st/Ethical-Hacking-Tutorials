@@ -1,5 +1,5 @@
-# Awesome Penetration Testing [![Awesome]
-## Mr. Cyb3rgh0st [![Awesome]
+# Awesome Penetration Testing 
+## Mr. Cyb3rgh0st 
 > A collection of awesome penetration testing resources.
 
 **[This project is supported by Netsparker Web Application Security Scanner](https://www.netsparker.com/?utm_source=github.com&utm_content=awesome+penetration+testing&utm_medium=referral&utm_campaign=generic+advert)**
