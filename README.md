@@ -1,5 +1,5 @@
-# Awesome Penetration Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
+# Awesome Penetration Testing [![Awesome]
+## Mr. Cyb3rgh0st [![Awesome]
 > A collection of awesome penetration testing resources.
 
 **[This project is supported by Netsparker Web Application Security Scanner](https://www.netsparker.com/?utm_source=github.com&utm_content=awesome+penetration+testing&utm_medium=referral&utm_campaign=generic+advert)**
@@ -677,8 +677,3 @@ Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Plea
 * [Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam) - Awesome resources, tools, and other shiny things for cybersecurity blue teams.
 * [Android Exploits](https://github.com/sundaysec/Android-Exploits) - Guide on Android Exploitation and Hacks
 
-# License
-
-[![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
